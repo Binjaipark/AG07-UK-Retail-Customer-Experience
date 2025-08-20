@@ -1,0 +1,201 @@
+Customer_ID,Channel,Product_Category,Purchase_Amount,Discount,Review_Rating,Purchase_Time,Device_Type,Location,Return_Flag,Loyalty,Age,Browsing_Time,Delivery_Speed_Satisfaction
+1001,Online,Grocery,303.37,25,3.2,2025-08-13T14:42:00.000Z,N/A,Bristol,No,Premium,23,18,Satisfied
+1002,Online,Electronics,507.98,15,4.2,2025-08-13T19:24:00.000Z,Tablet,Glasgow,Yes,VIP,54,17.49,Dissatisfied
+1003,Online,Toys,341.21,15,2.7,2025-08-13T16:08:00.000Z,Desktop,Edinburgh,No,Basic,61,12.42,Very Dissatisfied
+1004,Offline,Home & Kitchen,665.49,20,1.7,2025-08-13T09:55:00.000Z,N/A,Edinburgh,Yes,Premium,61,4.97,Dissatisfied
+1005,Online,Home & Kitchen,967.52,0,2.8,2025-08-13T23:27:00.000Z,N/A,Manchester,Yes,Basic,29,3.63,Neutral
+1006,Offline,Home & Kitchen,829.49,5,1.6,2025-08-13T15:44:00.000Z,N/A,Birmingham,Yes,Basic,29,20.41,Very Dissatisfied
+1007,Offline,Books,607.33,10,1.4,2025-08-13T01:14:00.000Z,N/A,Glasgow,No,VIP,28,13.89,Dissatisfied
+1008,Offline,Sports,142.78,0,2.7,2025-08-13T05:35:00.000Z,N/A,London,No,VIP,36,11.61,Satisfied
+1009,Online,Toys,214.29,0,1.6,2025-08-13T19:07:00.000Z,N/A,Manchester,No,VIP,59,26.62,Very Satisfied
+1010,Online,Toys,864.61,0,1.5,2025-08-13T22:08:00.000Z,Tablet,Birmingham,No,Premium,32,29.2,Very Satisfied
+1011,Offline,Sports,973.54,30,2.1,2025-08-13T13:52:00.000Z,N/A,Birmingham,No,Basic,66,4.45,Very Satisfied
+1012,Offline,Sports,907,5,2.2,2025-08-13T17:45:00.000Z,N/A,Birmingham,Yes,Basic,48,11.06,Very Satisfied
+1013,Offline,Electronics,338.17,30,2.7,2025-08-13T00:31:00.000Z,N/A,Glasgow,Yes,Basic,45,4.84,Very Satisfied
+1014,Online,Home & Kitchen,797.29,0,2.7,2025-08-13T00:06:00.000Z,Desktop,London,Yes,Basic,31,8.97,Neutral
+1015,Offline,Beauty,265.12,30,3.4,2025-08-13T13:30:00.000Z,N/A,Bristol,No,Basic,33,23.82,Dissatisfied
+1016,Offline,Toys,710.02,25,4.6,2025-08-13T22:58:00.000Z,N/A,Manchester,Yes,VIP,44,27.24,Dissatisfied
+1017,Offline,Home & Kitchen,622.35,10,1.1,2025-08-13T23:37:00.000Z,N/A,Leeds,No,VIP,55,12.2,Neutral
+1018,Online,Electronics,774.79,25,2.1,2025-08-13T20:21:00.000Z,N/A,Bristol,No,VIP,69,23.3,Satisfied
+1019,Offline,Grocery,548.06,20,4.7,2025-08-13T13:22:00.000Z,N/A,Edinburgh,Yes,Premium,50,4.57,Very Satisfied
+1020,Offline,Books,823.55,25,4.7,2025-08-13T21:32:00.000Z,N/A,Glasgow,No,VIP,48,8.84,Very Satisfied
+1021,Offline,Apparel,445.72,5,3.4,2025-08-13T17:51:00.000Z,N/A,Edinburgh,Yes,VIP,42,11.18,Very Satisfied
+1022,Offline,Sports,893.41,30,1.2,2025-08-13T18:39:00.000Z,N/A,Birmingham,Yes,Basic,52,15.01,Neutral
+1023,Offline,Beauty,148.48,10,4.7,2025-08-13T02:57:00.000Z,N/A,Bristol,Yes,Premium,21,21.15,Satisfied
+1024,Online,Toys,144.01,25,1.8,2025-08-13T09:53:00.000Z,Desktop,Bristol,Yes,Basic,38,3.01,Dissatisfied
+1025,Offline,Toys,358.5,25,4.9,2025-08-13T19:01:00.000Z,N/A,Bristol,No,VIP,67,12.42,Dissatisfied
+1026,Online,Apparel,859.51,0,2.4,2025-08-13T13:01:00.000Z,Tablet,Edinburgh,No,Premium,72,28.47,Neutral
+1027,Online,Sports,967.77,30,4.4,2025-08-13T13:24:00.000Z,N/A,Glasgow,No,Premium,69,16.29,Very Satisfied
+1028,Offline,Electronics,13.6,20,3.2,2025-08-13T14:01:00.000Z,N/A,Glasgow,Yes,Premium,56,4.36,Very Satisfied
+1029,Online,Toys,809.73,30,1.8,2025-08-13T20:48:00.000Z,N/A,Edinburgh,Yes,Premium,33,13.67,Very Dissatisfied
+1030,Online,Beauty,490.97,5,1.9,2025-08-13T20:53:00.000Z,Mobile,Liverpool,Yes,Basic,64,6.38,Dissatisfied
+1031,Online,Apparel,871.95,0,4.8,2025-08-13T06:14:00.000Z,Desktop,Edinburgh,Yes,Basic,55,12.27,Dissatisfied
+1032,Online,Toys,601.44,15,2.8,2025-08-13T22:39:00.000Z,Desktop,Manchester,Yes,Premium,55,25.21,Very Satisfied
+1033,Offline,Beauty,440.58,25,1.8,2025-08-13T07:25:00.000Z,N/A,Liverpool,Yes,Basic,54,2,Satisfied
+1034,Online,Beauty,845.22,0,3.4,2025-08-13T16:38:00.000Z,Mobile,Manchester,No,VIP,75,3.82,Dissatisfied
+1035,Offline,Grocery,467.4,25,1.1,2025-08-13T00:26:00.000Z,N/A,Manchester,No,Basic,46,9.07,Neutral
+1036,Online,Apparel,598.82,30,3.9,2025-08-13T11:28:00.000Z,Mobile,London,No,VIP,52,7.34,Neutral
+1037,Offline,Grocery,543.39,20,1.5,2025-08-13T12:47:00.000Z,N/A,Birmingham,Yes,Premium,18,24.17,Neutral
+1038,Offline,Beauty,779.81,10,4.4,2025-08-13T12:33:00.000Z,N/A,Birmingham,Yes,Basic,42,5.75,Very Dissatisfied
+1039,Offline,Sports,347.63,0,2.6,2025-08-13T08:58:00.000Z,N/A,Glasgow,No,Premium,22,22.09,Dissatisfied
+1040,Online,Toys,769.35,10,3.5,2025-08-13T13:14:00.000Z,Tablet,Bristol,No,VIP,53,1.39,Satisfied
+1041,Offline,Beauty,459.74,0,2.9,2025-08-13T11:17:00.000Z,N/A,Liverpool,No,VIP,19,29.65,Very Satisfied
+1042,Online,Grocery,701.18,25,4,2025-08-13T12:34:00.000Z,Tablet,Birmingham,Yes,VIP,39,12.29,Very Dissatisfied
+1043,Offline,Beauty,127.43,25,4.7,2025-08-13T14:06:00.000Z,N/A,Glasgow,Yes,Basic,48,18.26,Dissatisfied
+1044,Offline,Home & Kitchen,615.9,10,4.8,2025-08-13T13:22:00.000Z,N/A,Glasgow,No,Basic,45,8.95,Satisfied
+1045,Offline,Toys,719.42,15,1.4,2025-08-13T14:19:00.000Z,N/A,Manchester,No,Basic,55,7.27,Satisfied
+1046,Online,Sports,247.75,15,3.9,2025-08-13T02:37:00.000Z,Desktop,Leeds,Yes,VIP,60,20.35,Very Satisfied
+1047,Online,Home & Kitchen,516.99,0,1.4,2025-08-13T23:29:00.000Z,Mobile,Glasgow,Yes,Premium,25,11.33,Very Dissatisfied
+1048,Offline,Beauty,764.78,20,1.2,2025-08-13T07:04:00.000Z,N/A,Glasgow,Yes,VIP,34,10.76,Very Satisfied
+1049,Online,Beauty,645.74,5,2,2025-08-13T06:14:00.000Z,N/A,Birmingham,Yes,VIP,34,26.71,Very Dissatisfied
+1050,Offline,Home & Kitchen,810.78,20,2.2,2025-08-13T22:40:00.000Z,N/A,Leeds,No,Premium,49,20.08,Satisfied
+1051,Online,Toys,795.12,5,4.4,2025-08-13T23:04:00.000Z,N/A,Birmingham,Yes,Premium,60,24.86,Dissatisfied
+1052,Online,Home & Kitchen,971.93,30,4.7,2025-08-13T18:08:00.000Z,N/A,Leeds,Yes,Basic,19,28.99,Neutral
+1053,Online,Electronics,833.82,10,3,2025-08-13T07:40:00.000Z,Mobile,Glasgow,No,Basic,72,16.31,Very Satisfied
+1054,Offline,Sports,314.97,30,2.6,2025-08-13T17:21:00.000Z,N/A,Liverpool,No,Basic,46,12.17,Neutral
+1055,Online,Sports,233.63,0,4.4,2025-08-13T20:56:00.000Z,Desktop,Bristol,Yes,VIP,60,25.38,Neutral
+1056,Online,Grocery,255.51,30,3.8,2025-08-13T03:38:00.000Z,N/A,Edinburgh,No,VIP,55,12.7,Neutral
+1057,Offline,Sports,847.07,30,1.9,2025-08-13T00:21:00.000Z,N/A,Birmingham,No,Basic,41,29.99,Neutral
+1058,Online,Beauty,862.79,15,1.4,2025-08-13T07:57:00.000Z,Desktop,Manchester,Yes,Basic,34,2.39,Dissatisfied
+1059,Online,Sports,301.28,5,3.9,2025-08-13T05:51:00.000Z,Mobile,Manchester,Yes,Basic,60,21.3,Satisfied
+1060,Online,Toys,160.94,15,2.2,2025-08-13T12:35:00.000Z,Mobile,Bristol,No,VIP,36,12.26,Neutral
+1061,Online,Apparel,207.75,10,4.9,2025-08-13T23:08:00.000Z,Desktop,Manchester,Yes,Premium,67,12.59,Satisfied
+1062,Offline,Electronics,462.03,25,4,2025-08-13T17:34:00.000Z,N/A,Birmingham,No,VIP,54,23.74,Very Satisfied
+1063,Offline,Grocery,921.43,25,4.2,2025-08-13T15:28:00.000Z,N/A,Liverpool,No,Premium,35,29.67,Very Dissatisfied
+1064,Online,Home & Kitchen,625.77,20,3.7,2025-08-13T15:00:00.000Z,N/A,Bristol,No,Basic,40,16.48,Neutral
+1065,Offline,Apparel,816.6,5,4.7,2025-08-13T14:41:00.000Z,N/A,Manchester,No,Premium,69,25.94,Neutral
+1066,Offline,Home & Kitchen,752.34,25,2,2025-08-13T14:23:00.000Z,N/A,Birmingham,No,Premium,62,10.35,Very Dissatisfied
+1067,Offline,Apparel,585.82,0,1.8,2025-08-13T11:25:00.000Z,N/A,London,Yes,Premium,22,24.89,Dissatisfied
+1068,Online,Books,128.17,20,1.8,2025-08-13T10:16:00.000Z,N/A,Liverpool,Yes,Premium,34,18,Satisfied
+1069,Online,Grocery,509.61,20,2,2025-08-13T21:07:00.000Z,N/A,Manchester,No,Premium,28,29.14,Dissatisfied
+1070,Offline,Electronics,780.65,25,1.5,2025-08-13T14:50:00.000Z,N/A,Glasgow,No,Premium,26,20.85,Very Dissatisfied
+1071,Offline,Sports,993.79,25,1.4,2025-08-13T01:44:00.000Z,N/A,Edinburgh,Yes,Basic,69,29.98,Very Satisfied
+1072,Offline,Apparel,624.62,0,1.8,2025-08-13T02:39:00.000Z,N/A,Leeds,Yes,VIP,25,19.68,Satisfied
+1073,Online,Apparel,73.9,30,3.8,2025-08-13T02:53:00.000Z,Tablet,Bristol,No,Premium,56,25.47,Very Satisfied
+1074,Online,Sports,421.45,0,3.9,2025-08-13T22:21:00.000Z,Tablet,Glasgow,No,Premium,33,1.08,Dissatisfied
+1075,Offline,Beauty,994.33,20,2,2025-08-13T06:04:00.000Z,N/A,Birmingham,No,Basic,50,1.51,Satisfied
+1076,Online,Grocery,354.86,5,4.5,2025-08-13T20:47:00.000Z,Tablet,London,Yes,Basic,20,13.61,Very Dissatisfied
+1077,Online,Grocery,142,20,2.7,2025-08-13T04:29:00.000Z,Mobile,Leeds,No,Premium,58,9.18,Very Satisfied
+1078,Offline,Books,564.3,25,2.2,2025-08-13T14:13:00.000Z,N/A,London,No,VIP,25,8.34,Satisfied
+1079,Online,Toys,296.83,30,2.4,2025-08-13T12:18:00.000Z,Desktop,Glasgow,No,Basic,68,13.3,Satisfied
+1080,Online,Grocery,958.15,20,2.6,2025-08-13T20:02:00.000Z,N/A,Manchester,No,Premium,69,16.38,Very Dissatisfied
+1081,Offline,Home & Kitchen,581.08,0,2.3,2025-08-13T01:27:00.000Z,N/A,Glasgow,No,Basic,50,15.32,Neutral
+1082,Offline,Apparel,621.17,30,3.9,2025-08-13T11:29:00.000Z,N/A,Liverpool,Yes,Premium,54,20.7,Satisfied
+1083,Offline,Beauty,443.83,30,2.6,2025-08-13T19:47:00.000Z,N/A,London,Yes,Premium,67,1.41,Neutral
+1084,Offline,Home & Kitchen,524.37,30,3.5,2025-08-13T09:25:00.000Z,N/A,Liverpool,No,VIP,46,15.29,Dissatisfied
+1085,Online,Beauty,758.56,10,3.1,2025-08-13T14:18:00.000Z,Desktop,Bristol,Yes,Premium,72,14.9,Dissatisfied
+1086,Online,Beauty,801.71,0,3.2,2025-08-13T09:18:00.000Z,Tablet,Glasgow,Yes,Premium,36,22.75,Dissatisfied
+1087,Offline,Electronics,777.09,10,1.1,2025-08-13T22:14:00.000Z,N/A,Glasgow,Yes,Basic,28,29.17,Very Dissatisfied
+1088,Online,Books,73.49,20,2.6,2025-08-13T08:34:00.000Z,Tablet,Manchester,Yes,Basic,67,1.97,Very Satisfied
+1089,Online,Books,858.86,15,4.1,2025-08-13T05:17:00.000Z,Desktop,Manchester,Yes,Basic,32,16.94,Dissatisfied
+1090,Offline,Sports,997.82,0,1.2,2025-08-13T20:34:00.000Z,N/A,Edinburgh,Yes,Basic,75,1.12,Very Satisfied
+1091,Offline,Electronics,69.98,0,2.5,2025-08-13T18:11:00.000Z,N/A,Liverpool,Yes,Basic,26,18.37,Very Satisfied
+1092,Online,Toys,162.37,15,2.3,2025-08-13T12:55:00.000Z,Tablet,London,No,Premium,60,24.47,Neutral
+1093,Offline,Home & Kitchen,591.96,20,3.7,2025-08-13T23:56:00.000Z,N/A,Bristol,No,VIP,19,25.32,Satisfied
+1094,Offline,Grocery,358.64,15,4.3,2025-08-13T11:03:00.000Z,N/A,London,No,Premium,45,3.64,Neutral
+1095,Offline,Grocery,731.37,5,1,2025-08-13T04:01:00.000Z,N/A,Glasgow,No,VIP,53,12.69,Very Dissatisfied
+1096,Offline,Beauty,506.62,25,4.2,2025-08-13T20:16:00.000Z,N/A,Bristol,No,Basic,24,13.35,Satisfied
+1097,Online,Books,635.92,5,3.7,2025-08-13T12:52:00.000Z,Desktop,Manchester,Yes,Premium,64,25.84,Neutral
+1098,Online,Sports,774.7,10,2.9,2025-08-13T07:43:00.000Z,Tablet,Glasgow,Yes,Premium,39,29.22,Very Satisfied
+1099,Offline,Apparel,606.47,20,1.1,2025-08-13T04:32:00.000Z,N/A,Liverpool,Yes,Basic,38,24.31,Satisfied
+1100,Online,Apparel,899.74,10,5,2025-08-13T23:44:00.000Z,Desktop,Glasgow,Yes,Basic,21,14.01,Very Satisfied
+1101,Online,Electronics,959.11,0,1.8,2025-08-13T19:59:00.000Z,Tablet,Birmingham,Yes,Basic,32,28.52,Very Satisfied
+1102,Offline,Sports,234.37,20,2,2025-08-13T00:17:00.000Z,N/A,Bristol,Yes,Basic,62,15.15,Satisfied
+1103,Online,Grocery,678.43,5,2.7,2025-08-13T21:20:00.000Z,Desktop,Birmingham,Yes,Basic,40,3.67,Very Dissatisfied
+1104,Online,Grocery,975.3,0,2.1,2025-08-13T20:28:00.000Z,Mobile,Glasgow,Yes,VIP,45,21.64,Dissatisfied
+1105,Online,Sports,710.19,10,1.5,2025-08-13T16:03:00.000Z,Desktop,Bristol,Yes,Premium,43,22.33,Satisfied
+1106,Online,Beauty,128.82,30,3.7,2025-08-13T18:27:00.000Z,Tablet,London,Yes,Premium,31,24.52,Satisfied
+1107,Offline,Grocery,546.87,25,1.3,2025-08-13T15:31:00.000Z,N/A,London,Yes,VIP,71,2.81,Dissatisfied
+1108,Online,Apparel,375.54,0,2,2025-08-13T12:39:00.000Z,Desktop,Birmingham,Yes,VIP,37,21.66,Neutral
+1109,Online,Beauty,737.39,0,4.2,2025-08-13T03:53:00.000Z,Tablet,Manchester,Yes,VIP,71,12.83,Dissatisfied
+1110,Online,Electronics,71.39,20,3,2025-08-13T23:27:00.000Z,Tablet,Edinburgh,Yes,VIP,37,5.99,Very Dissatisfied
+1111,Offline,Beauty,914.4,5,3.8,2025-08-13T20:25:00.000Z,N/A,London,Yes,VIP,39,24.19,Very Dissatisfied
+1112,Offline,Electronics,895.96,15,4.9,2025-08-13T10:47:00.000Z,N/A,Bristol,No,Premium,29,4.19,Neutral
+1113,Offline,Grocery,25.72,15,4.5,2025-08-13T20:35:00.000Z,N/A,Leeds,Yes,VIP,62,1.83,Very Dissatisfied
+1114,Offline,Toys,739.21,20,2.4,2025-08-13T01:02:00.000Z,N/A,Birmingham,No,Basic,34,25.88,Neutral
+1115,Offline,Books,792.36,20,2.3,2025-08-13T16:12:00.000Z,N/A,Glasgow,Yes,Basic,55,9.89,Very Dissatisfied
+1116,Online,Grocery,15.89,30,3.3,2025-08-13T14:39:00.000Z,N/A,Glasgow,Yes,VIP,30,7.24,Neutral
+1117,Online,Apparel,70.04,5,1.2,2025-08-13T05:13:00.000Z,Desktop,Leeds,No,Premium,55,8.2,Neutral
+1118,Online,Electronics,950.03,0,2.6,2025-08-13T09:55:00.000Z,N/A,Birmingham,Yes,VIP,74,13.3,Very Dissatisfied
+1119,Online,Beauty,841.93,25,3.6,2025-08-13T00:24:00.000Z,Desktop,Edinburgh,No,Basic,67,2.41,Dissatisfied
+1120,Offline,Home & Kitchen,603.49,25,3.3,2025-08-13T11:23:00.000Z,N/A,Bristol,Yes,VIP,31,18.36,Satisfied
+1121,Online,Grocery,349.36,15,4.4,2025-08-13T03:35:00.000Z,Desktop,Glasgow,Yes,Premium,35,9.64,Neutral
+1122,Online,Apparel,529.33,10,2.8,2025-08-13T01:15:00.000Z,Mobile,Manchester,Yes,VIP,39,20.52,Dissatisfied
+1123,Online,Toys,493.25,30,4,2025-08-13T06:37:00.000Z,Mobile,Manchester,Yes,Premium,47,27.77,Dissatisfied
+1124,Online,Toys,303.56,15,2.8,2025-08-13T16:16:00.000Z,Tablet,Edinburgh,Yes,Premium,65,28.22,Very Satisfied
+1125,Online,Toys,13.97,30,3.4,2025-08-13T00:50:00.000Z,Desktop,Bristol,No,Premium,48,17.61,Satisfied
+1126,Online,Home & Kitchen,438.78,10,2.1,2025-08-13T16:25:00.000Z,N/A,Glasgow,Yes,VIP,46,25.68,Very Dissatisfied
+1127,Online,Sports,193.42,0,4.1,2025-08-13T08:03:00.000Z,Desktop,London,No,Basic,51,29.26,Dissatisfied
+1128,Offline,Books,25.47,25,3.6,2025-08-13T11:49:00.000Z,N/A,Bristol,No,Premium,73,22.75,Very Dissatisfied
+1129,Online,Apparel,542.99,25,4.2,2025-08-13T12:36:00.000Z,Tablet,Manchester,Yes,Premium,75,2.35,Very Dissatisfied
+1130,Offline,Home & Kitchen,20.16,0,3.8,2025-08-13T01:10:00.000Z,N/A,Liverpool,Yes,VIP,33,19.96,Satisfied
+1131,Offline,Electronics,296.87,30,2.1,2025-08-13T19:17:00.000Z,N/A,London,Yes,Basic,39,8.34,Satisfied
+1132,Online,Toys,812.63,25,3.5,2025-08-13T12:32:00.000Z,Mobile,Leeds,No,Basic,36,19.13,Neutral
+1133,Online,Toys,685.62,10,2.8,2025-08-13T16:32:00.000Z,Mobile,Manchester,No,Basic,43,17.02,Neutral
+1134,Offline,Apparel,26.83,0,3.5,2025-08-13T06:41:00.000Z,N/A,London,Yes,Premium,45,9.05,Very Dissatisfied
+1135,Offline,Apparel,204.29,20,4.1,2025-08-13T18:12:00.000Z,N/A,London,Yes,VIP,65,6.13,Neutral
+1136,Offline,Beauty,731.44,25,2.1,2025-08-13T12:13:00.000Z,N/A,Manchester,No,VIP,68,20.97,Satisfied
+1137,Online,Toys,537.97,5,1.4,2025-08-13T19:48:00.000Z,N/A,Edinburgh,No,Premium,75,5.09,Very Dissatisfied
+1138,Offline,Electronics,144.15,20,2.8,2025-08-13T10:59:00.000Z,N/A,Bristol,No,Premium,56,15.61,Very Satisfied
+1139,Offline,Apparel,10.87,0,1.9,2025-08-13T09:25:00.000Z,N/A,Manchester,No,VIP,63,13.7,Satisfied
+1140,Offline,Beauty,55.01,20,3.2,2025-08-13T06:07:00.000Z,N/A,Liverpool,Yes,Premium,21,12.09,Very Dissatisfied
+1141,Online,Toys,571.37,25,2.4,2025-08-13T15:57:00.000Z,Desktop,Liverpool,No,Basic,40,27.7,Very Satisfied
+1142,Online,Toys,626.37,25,3.1,2025-08-13T04:24:00.000Z,N/A,Edinburgh,Yes,Basic,49,7.81,Neutral
+1143,Offline,Home & Kitchen,964.22,25,3.8,2025-08-13T19:44:00.000Z,N/A,London,No,Premium,24,15.56,Satisfied
+1144,Online,Toys,653.65,25,1.8,2025-08-13T16:16:00.000Z,N/A,Leeds,No,Premium,58,8.5,Very Dissatisfied
+1145,Online,Grocery,160.82,5,3.1,2025-08-13T11:06:00.000Z,Mobile,Manchester,Yes,Premium,67,18,Dissatisfied
+1146,Offline,Sports,799.81,30,1.3,2025-08-13T12:54:00.000Z,N/A,Manchester,No,VIP,66,7.7,Neutral
+1147,Offline,Apparel,453.48,5,4.5,2025-08-13T00:53:00.000Z,N/A,Glasgow,No,Basic,39,7.39,Satisfied
+1148,Online,Books,461.8,15,4.1,2025-08-13T15:06:00.000Z,Mobile,London,No,VIP,56,7.23,Dissatisfied
+1149,Offline,Grocery,351.24,20,4.7,2025-08-13T06:04:00.000Z,N/A,Edinburgh,Yes,VIP,67,4.56,Dissatisfied
+1150,Offline,Toys,496.84,10,3,2025-08-13T21:49:00.000Z,N/A,Bristol,No,Premium,62,22.74,Neutral
+1151,Online,Electronics,513.93,10,3.6,2025-08-13T19:36:00.000Z,Mobile,Edinburgh,No,VIP,60,18.51,Neutral
+1152,Online,Toys,153.96,30,2.3,2025-08-13T17:38:00.000Z,N/A,Edinburgh,No,Premium,53,18.26,Very Satisfied
+1153,Online,Sports,974.99,0,1.6,2025-08-13T07:55:00.000Z,Desktop,London,Yes,VIP,23,2.23,Satisfied
+1154,Offline,Books,503.65,20,1.4,2025-08-13T08:04:00.000Z,N/A,Birmingham,No,Basic,34,15.09,Dissatisfied
+1155,Online,Beauty,819.5,10,1.6,2025-08-13T14:51:00.000Z,Tablet,Edinburgh,No,Premium,20,4.56,Very Dissatisfied
+1156,Online,Electronics,383.33,5,4.3,2025-08-13T00:21:00.000Z,N/A,London,No,VIP,45,6.74,Very Satisfied
+1157,Offline,Beauty,169.78,15,2.4,2025-08-13T00:21:00.000Z,N/A,London,Yes,VIP,22,14.82,Dissatisfied
+1158,Online,Grocery,913.64,0,1.9,2025-08-13T01:49:00.000Z,Tablet,Birmingham,Yes,Basic,54,1.36,Neutral
+1159,Online,Home & Kitchen,372.72,20,3.1,2025-08-13T07:10:00.000Z,N/A,Manchester,No,VIP,54,17.67,Dissatisfied
+1160,Offline,Apparel,891.17,10,2.6,2025-08-13T07:09:00.000Z,N/A,Edinburgh,Yes,Basic,59,1.13,Satisfied
+1161,Offline,Beauty,932.29,15,2.3,2025-08-13T10:51:00.000Z,N/A,Glasgow,No,Basic,33,5.25,Dissatisfied
+1162,Online,Books,228.34,15,3.8,2025-08-13T08:52:00.000Z,N/A,London,Yes,Basic,18,14.4,Dissatisfied
+1163,Offline,Apparel,629.8,0,4.9,2025-08-13T09:46:00.000Z,N/A,Glasgow,No,VIP,48,26.39,Satisfied
+1164,Offline,Beauty,583.57,25,3.7,2025-08-13T01:37:00.000Z,N/A,Bristol,No,VIP,71,16.62,Satisfied
+1165,Offline,Home & Kitchen,147.37,10,2.9,2025-08-13T23:54:00.000Z,N/A,Manchester,Yes,VIP,39,6.92,Satisfied
+1166,Online,Home & Kitchen,124.18,0,2,2025-08-13T02:12:00.000Z,Tablet,Bristol,No,VIP,60,19.67,Very Satisfied
+1167,Offline,Beauty,351.65,15,1.1,2025-08-13T11:43:00.000Z,N/A,Edinburgh,Yes,Premium,50,26.63,Neutral
+1168,Offline,Beauty,264.57,15,3.5,2025-08-13T20:08:00.000Z,N/A,Bristol,Yes,VIP,30,5.86,Very Satisfied
+1169,Offline,Apparel,234.03,0,1.3,2025-08-13T09:58:00.000Z,N/A,Liverpool,Yes,Basic,50,7.01,Neutral
+1170,Online,Beauty,320.51,20,3.4,2025-08-13T13:36:00.000Z,Tablet,Birmingham,No,Premium,75,16.97,Satisfied
+1171,Online,Electronics,280.92,5,1.7,2025-08-13T11:15:00.000Z,Desktop,Liverpool,No,VIP,22,2.09,Dissatisfied
+1172,Online,Sports,892.8,30,3.4,2025-08-13T03:48:00.000Z,N/A,Birmingham,Yes,VIP,71,12.37,Very Satisfied
+1173,Online,Books,477.12,20,4.3,2025-08-13T22:13:00.000Z,Desktop,London,No,Basic,59,25.61,Dissatisfied
+1174,Offline,Electronics,671.74,5,4.4,2025-08-13T06:21:00.000Z,N/A,Leeds,No,VIP,25,22.3,Satisfied
+1175,Offline,Books,968.85,5,1.1,2025-08-13T04:42:00.000Z,N/A,Birmingham,No,Basic,45,11.65,Neutral
+1176,Offline,Apparel,579.04,15,4.7,2025-08-13T01:07:00.000Z,N/A,Edinburgh,Yes,Basic,21,10.58,Very Satisfied
+1177,Online,Apparel,862.48,20,1.8,2025-08-13T00:27:00.000Z,Mobile,London,Yes,VIP,21,1.82,Very Dissatisfied
+1178,Online,Toys,332.26,25,4.8,2025-08-13T11:46:00.000Z,N/A,Bristol,Yes,VIP,72,18.99,Satisfied
+1179,Offline,Electronics,613.42,15,4.5,2025-08-13T06:02:00.000Z,N/A,Edinburgh,No,Basic,47,10.45,Very Satisfied
+1180,Offline,Beauty,91.4,10,2.9,2025-08-13T00:23:00.000Z,N/A,Leeds,No,Basic,75,26.97,Satisfied
+1181,Online,Beauty,139.95,5,3.7,2025-08-13T05:41:00.000Z,N/A,Bristol,Yes,VIP,74,11.63,Satisfied
+1182,Online,Home & Kitchen,86.18,25,5,2025-08-13T13:32:00.000Z,Desktop,Bristol,No,Basic,26,2.18,Very Dissatisfied
+1183,Online,Grocery,374.56,15,1.6,2025-08-13T01:52:00.000Z,Mobile,Edinburgh,No,Premium,35,6.15,Very Dissatisfied
+1184,Offline,Apparel,474.35,25,2.9,2025-08-13T13:56:00.000Z,N/A,Bristol,No,Premium,37,12.19,Very Dissatisfied
+1185,Online,Apparel,781.04,25,3.6,2025-08-13T10:00:00.000Z,Mobile,Bristol,No,Premium,46,25.86,Neutral
+1186,Offline,Grocery,837.87,30,5,2025-08-13T11:57:00.000Z,N/A,Liverpool,Yes,Basic,29,27.09,Very Satisfied
+1187,Online,Beauty,269.22,10,4.6,2025-08-13T12:01:00.000Z,Desktop,Edinburgh,Yes,VIP,51,6.84,Neutral
+1188,Online,Apparel,897.27,25,4.5,2025-08-13T03:19:00.000Z,Tablet,Bristol,No,Basic,73,21.98,Neutral
+1189,Online,Sports,570.97,25,3.6,2025-08-13T00:05:00.000Z,Tablet,Liverpool,Yes,VIP,21,15.27,Very Satisfied
+1190,Offline,Books,197.28,5,4.8,2025-08-13T22:34:00.000Z,N/A,Glasgow,No,VIP,46,13.36,Very Satisfied
+1191,Online,Toys,334.31,30,4.9,2025-08-13T08:04:00.000Z,Desktop,Edinburgh,No,Premium,64,27.44,Neutral
+1192,Online,Beauty,550.53,0,2.3,2025-08-13T00:17:00.000Z,Mobile,Bristol,No,Basic,39,12.52,Neutral
+1193,Online,Electronics,760.24,15,1.9,2025-08-13T21:48:00.000Z,Mobile,London,No,VIP,18,3.72,Very Satisfied
+1194,Online,Apparel,242.28,30,3.9,2025-08-13T04:46:00.000Z,Desktop,Birmingham,No,VIP,46,26.02,Very Dissatisfied
+1195,Offline,Grocery,587.7,15,3.8,2025-08-13T19:02:00.000Z,N/A,Glasgow,Yes,VIP,35,7.45,Very Dissatisfied
+1196,Offline,Electronics,411.73,25,1.8,2025-08-13T04:48:00.000Z,N/A,Glasgow,No,VIP,19,19.46,Dissatisfied
+1197,Offline,Sports,493.27,30,3.7,2025-08-13T05:52:00.000Z,N/A,Bristol,Yes,Basic,23,22.36,Dissatisfied
+1198,Offline,Home & Kitchen,424.12,25,1.7,2025-08-13T17:32:00.000Z,N/A,Leeds,Yes,Premium,35,3.79,Dissatisfied
+1199,Online,Beauty,440.37,0,3.5,2025-08-13T07:35:00.000Z,Desktop,Birmingham,No,Basic,42,19.85,Very Satisfied
+1200,Online,Electronics,696.99,5,3.2,2025-08-13T22:02:00.000Z,Mobile,Liverpool,No,VIP,68,18.21,Dissatisfied
